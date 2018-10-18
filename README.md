@@ -1,2 +1,2 @@
-# ACM-projecct
+# ACM-project
 A project for ACM
